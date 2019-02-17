@@ -1,1 +1,1 @@
-worker: java JMusicbot-0.2.1.jar
+worker: java JMusicBot-0.2.1.jar
